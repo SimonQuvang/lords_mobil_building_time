@@ -1,0 +1,26 @@
+,Level,Results,Might Bonus,Food Cost,Stone Cost,Timber Cost,Ore Cost,Required,Orig. Time
+0,1,Alerts you to incoming armies! Reveals mission and objective of enemy Armies approaching your Turf or Camps.,15,0,0,0,0,0,0
+1,2,0,30,412.0,412.0,330.0,495.0,Barracks: Lv.2,150
+2,3,0,45,618.0,618.0,495.0,742.0,Barracks: Lv.3,300
+3,4,Reveals the player name and coordinates of enemy Armies approaching your Turf or Camps.,63,928.0,928.0,742.0,1113.0,Barracks: Lv. 4,600
+4,5,0,88,1392.0,1392.0,1113.0,1670.0,Barracks: Lv. 5,1200
+5,6,0,123,2088.0,2088.0,1670.0,2505.0,Barracks: Lv.6,2400
+6,7,Reveals remaining travel time of enemy Armies approaching your Turf or Camps.,173,3132.0,3132.0,2505.0,3758.0,Barracks: Lv.7,4800
+7,8,0,242,4698.0,4698.0,3758.0,5638.0,Barracks: Lv.8,9600
+8,9,0,339,7047.0,7047.0,5638.0,8457.0,Barracks: L.9,17280
+9,10,Reveals the Guild of enemy Armies approaching your Turf or Camps.,474,10571.0,10571.0,8457.0,12686.0,Barracks: Lv.10,27648
+10,11,0,664,15857.0,15857.0,12686.0,19029.0,Barracks: Lv.11,35943
+11,12,0,930,23786.0,23786.0,19029.0,28544.0,Barracks 12,41334
+12,13,Reveals the estimated size of enemy Armies approaching your Turf or Camps and the number of Heroes in them.,1302,35680.0,35680.0,28544.0,42816.0,Barracks 13,47534
+13,14,0,1822,53520.0,53520.0,42816.0,64224.0,Barracks: lvl 14,54664
+14,15,Indicates if an approaching enemy Army is led by the Leader and reveals its composition.,2551,80280.0,80280.0,64224.0,96336.0,Barracks 15,62864
+15,16,0,3572,120420.0,120420.0,96336.0,144504.0,Barracks: Lv. 16,72294
+16,17,"Reveals the estimated size of each squad and soldier class of enemy armies approaching your turf, camps or garrisoned troops.",5000,180631.0,180631.0,144504.0,216757.0,Barracks 17,83137
+17,18,.,7001,270946.0,270946.0,216757.0,325136.0,Barracks: Lv.18,95608
+18,19,Reveals the Hero lineup of enemy Armies approaching your Turf or Camps.,9801,406420.0,406420.0,325136.0,487704.0,Barracks: Lv.19,109949
+19,20,0,13721,609630.0,609630.0,487704.0,731556.0,Barracks: Lv.20,126441
+20,21,"Reveals the actual size of each squad for enemy armies approaching your turf, camps or garrisoned troops.",19209,914445.0,914445.0,731556.0,1097334.0,Barracks: Lv. 21,164374
+21,22,.,26894,1371668.0,1371668.0,1097334.0,1646002.0,Barracks: Lv. 22,262980
+22,23,Reveals the Rank and Grade of Heroes in enemy Armies Approaching your Turf or Camps.,37651,2057502.0,2057502.0,1646002.0,2469003.0,Barracks: Lv. 23,473395
+23,24,0,52711,3086253.0,3086253.0,2469003.0,3703504.0,Barracks: Lv. 24,852111
+24,25,Unlocks [Fortify] button! Quickly bolster your defenses for an impeding Siege Battle and lower your enemies' power!,89608,6172507.0,6172507.0,4938006.0,7407009.0,Barrack: Lv.25 Gold Hammer,2982388
